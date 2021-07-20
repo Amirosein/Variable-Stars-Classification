@@ -1,4 +1,4 @@
-# MilkywayFormation
+# Variable Stars Classification
 
 In this part of project, I trained a classifier in order to classify variable stars with the OGLE-(III & IV) survey datasets.
 
