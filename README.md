@@ -2,7 +2,7 @@
 
 In this part of project, I trained a classifier in order to classify variable stars with the OGLE-(III & IV) survey datasets.
 
-I used KNN, Decision Tree and LDA Classifiers in this part.
+I used **KNN, Decision Tree and LDA** Classifiers in this part.
 
 ------
 
